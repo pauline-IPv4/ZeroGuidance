@@ -1,6 +1,6 @@
 # ZeroGuidance
  A portfolio that presents my visual work for zero guidance,<br>
- a Moroccan electronic music label - using Three.js<br>
+ a moroccan electronic music label - using Three.js<br>
  
 All music artworks presented on the site are my creation.
 
