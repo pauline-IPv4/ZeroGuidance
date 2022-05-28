@@ -4,7 +4,7 @@
  
 All music artworks presented on the site are my creation.
 
-[ZeroGuidance](https://soundcloud.com/zeroguidance)
+[ZeroGuidance](https://soundcloud.com/zeroguidance)<br>
 [DJ Blush](https://soundcloud.com/blush-dj/tracks)
 
 [Three.js doc](https://threejs.org/)
